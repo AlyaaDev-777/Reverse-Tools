@@ -1,6 +1,6 @@
 
-__01234567 = ['Protected By 0xgrace reverse Tools']
-__ABCDEFGHIJKLMNOPQRSTUVWXYZ = ['abcdefghijklmnopqrstuvwxyz',"0___0xgraceeu___0"]
+__01234567 = ['Protected By AlyaDev reverse Tools']
+__ABCDEFGHIJKLMNOPQRSTUVWXYZ = ['abcdefghijklmnopqrstuvwxyz',"0___XALYA___0"]
 __nguyen_78268288169h = ['abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ',5375241798401609606754718345]
 __Colmekin__dong_bang5375241798401609606754718345 = ['yah yatim mau recode','goodluck dah']
 __areyouidiot27736363791 = ["Don't Recode Kids','sorry this file has ben Encoded","22:14"]
